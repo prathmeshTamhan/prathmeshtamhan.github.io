@@ -1,0 +1,31 @@
+* {
+  background-color: rgba(120, 225, 243, 0.897);
+  justify-content: center;
+}
+h1 {
+  font-size: 2rem;
+  color: #ff5e00;
+  margin: auto;
+  padding: auto;
+  font-family: "Arvo", cursive;
+  text-shadow: 2px 0 #ffffffe8;
+  text-align: center;
+}
+h6{
+    font-size: 0.5rem;
+    margin: 2ch;
+    padding-top:0.5px ;
+}
+.keys {
+  outline: none;
+  font-size: 1rem;
+  font-family: cursive;
+  font-weight: 30;
+  text-shadow: 1px 0 #dbedf3;
+  border-radius: 7px;
+  justify-content: center;
+  display: inline-block;
+  text-align: center;
+  background-color: rgb(23, 25, 26);
+  padding: auto;
+}
