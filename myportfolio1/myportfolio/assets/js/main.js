@@ -163,9 +163,9 @@
     new Typed('.typed', {
       strings: typed_strings,
       loop: true,
-      typeSpeed: 300,
+      typeSpeed: 200,
       backSpeed: 60,
-      backDelay: 1000
+      backDelay: 800
     });
   }
 
